@@ -1,0 +1,1 @@
+# fujiyamashuriken.github.io
