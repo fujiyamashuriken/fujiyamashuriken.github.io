@@ -1,0 +1,28 @@
+body {
+    background-color: royalblue;
+    font-family: 모리스9;
+}
+h1 {
+     font-family: 바탕;
+     color: whitesmoke;
+     border-bottom: 1px solid black;
+}
+p {
+    color: yellow;
+}
+h2.site {
+    color: greenyellow;
+    background-color: salmon
+}
+h2 {
+    text-decoration: underline;
+}
+a:link {
+    color: gainsboro;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: purple;
+}
